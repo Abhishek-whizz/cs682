@@ -4,7 +4,7 @@ enum StudentStatus{ INSTATE,
                     OUTSTATE,
                      INTL;}
 
-public class Student {
+sjfbsjdkjbjpublic class Student {
     float tuition;
     String name;
     int i20num;
@@ -62,7 +62,7 @@ public class Student {
     }
     public static void main (String[] args)
     {
-        Student s = createInStateStudent("abhishek", "malden");
+        Student s = createInStateStudent("abhishekss", "malden");
     }
 }
 
