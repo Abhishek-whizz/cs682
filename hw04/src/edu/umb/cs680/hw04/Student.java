@@ -7,7 +7,8 @@ enum StudentStatus{ INSTATE,
 sjfbsjdkjbjpublic class Student {
     float tuition;
     String name;
-    int i20num;
+sdfsdfadf~```:wq
+	int i20num;
     String usAddr;
     int yrsInState;
     String foriegnAddr;
